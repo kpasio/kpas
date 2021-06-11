@@ -14,7 +14,7 @@ It also provides an optional, opinionated layer on top of these cluster using be
 - Centralised Logging & Metrics
 - A CLI for generating clusters and adding apps
 
-The goal is to provide an opinionated, out of the box "release ready" configuration for a typical modern web application stack. A typical workflow is:
+kpas an opinionated, out of the box "release ready" configuration for a typical modern web application stack. A typical workflow is:
 
 - Provision a cluster with Kpas
 - Initialize your app for Kpas deployment using the CLI
